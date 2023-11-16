@@ -66,3 +66,6 @@ src/sap.ui.documentation/src/sap/ui/documentation/sdk/model/data/guide/
 
 # Ignore eslint cache file
 .eslintcache
+
+# Server and deployment folders
+dist
