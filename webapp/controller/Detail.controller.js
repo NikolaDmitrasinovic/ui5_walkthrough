@@ -5,7 +5,7 @@ sap.ui.define(
     "sap/m/MessageToast",
     "sap/ui/model/json/JSONModel",
   ],
-  (Controller, History) => {
+  (Controller, History, MessageToast, JSONModel) => {
     "use strict";
 
     return Controller.extend("ui5.walkthrough.controller.Detail", {
